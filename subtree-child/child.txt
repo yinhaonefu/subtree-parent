@@ -4,3 +4,4 @@ hello c
 hello c++
 hello ruby
 hello scala
+hello go
